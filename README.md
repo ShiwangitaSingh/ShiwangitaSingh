@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShiwangitaSingh
-- 👀 I’m interested in science, space and technology.
-- 🌱 I’m currently learning C language and VR development. 
+- 👀 I’m interested in space, science and technology.
+- 🌱 I’m currently learning C,C++,Python language and VR development. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
